@@ -1,2 +1,2 @@
 # dockerRaspberryPI
-setup Docker in Raspberry PI 4
+setup Docker & portainer in Raspberry PI 4
